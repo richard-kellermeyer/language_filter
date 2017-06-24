@@ -1,4 +1,5 @@
 \w*timeset\w*
+\w*time\w*\W*set\w*
 \w*fuck\w*
 \w*fcuk\w*
 \w*fuk\w*
